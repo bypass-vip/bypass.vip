@@ -25,8 +25,8 @@ Example response that the api will return 😎
 {
   success: false,
   website: 'linkvertise',
-  query: 'https://...',
-  response: 'Invalid link',
+  query: 'https://...',         --> Link to bypass
+  response: 'Invalid link',     --> Invalid :'(
   time_ms: 1685
 }
 ```
