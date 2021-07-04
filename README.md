@@ -7,6 +7,7 @@ Welcome to our github page! Here you can find some examples on how to use the ap
 
 ### Response
 Example response that the api will return 😎
+####Succesfull response
 ``` 
 {
   success: true,
@@ -15,6 +16,16 @@ Example response that the api will return 😎
   destination: 'https://...',   --> bypassed link
   cache: true,
   time_ms: 0
+}
+```
+####Failed response
+```
+{
+  success: false,
+  website: 'linkvertise',
+  query: 'https://...',
+  response: 'Invalid link',
+  time_ms: 1685
 }
 ```
 ### Supported links
