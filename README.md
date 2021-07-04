@@ -7,7 +7,8 @@ Welcome to our github page! Here you can find some examples on how to use the ap
 
 ### Response
 Example response that the api will return 😎
-####Succesfull response
+
+#### Succesfull response
 ``` 
 {
   success: true,
@@ -18,7 +19,8 @@ Example response that the api will return 😎
   time_ms: 0
 }
 ```
-####Failed response
+
+#### Failed response
 ```
 {
   success: false,
