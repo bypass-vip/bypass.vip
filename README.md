@@ -46,3 +46,4 @@ Example response that the api will return 😎
 | bit.ly | ✔      | 
 | social-unlock.com | ✔      | 
 | boost.ink | ✔      | 
+| bit.ly | ✔      | 
