@@ -44,3 +44,5 @@ Example response that the api will return 😎
 | sub4unlock.com | ✔     | 
 | ytsubme.com | ✔      | 
 | bit.ly | ✔      | 
+| social-unlock.com | ✔      | 
+| boost.ink | ✔      | 
