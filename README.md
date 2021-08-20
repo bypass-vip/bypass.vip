@@ -35,6 +35,7 @@ Example response that the api will return 😎
 | ------------- | -------------:| 
 | linkvertise.com      | ✔ | 
 | adf.ly      | ✔     | 
+| exe.io/exey.io      | ✔     | 
 | sub2unlock.net/sub2unlock.com | ✔     | 
 | rekonise.com | ✔      | 
 | letsboost.net | ✔      | 
