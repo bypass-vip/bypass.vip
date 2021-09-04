@@ -3,7 +3,7 @@
 Welcome to our github page! Here you can find some examples on how to use the api! Feel free to copy and paste it into your project! Happy coding 😉 
 
 </br>
-<a href="https://bypass.vip/discord "><img src="https://img.shields.io/discord/840146485861679156?color=5865F2&logo=discord&logoColor=white" alt="Discord server"/></a>
+<a href="https://bypass.vip/discord "><img src="https://img.shields.io/discord/881623905469612112?color=5865F2&logo=discord&logoColor=white" alt="Discord server"/></a>
 
 ### Response
 Example response that the api will return 😎
