@@ -48,3 +48,9 @@ func Bypass(url string) BypassResponse {
 
 	return bResp
 }
+
+func main() {
+	bResp := Bypass("https://google.com/")
+	fmt.Println("BypassResponse struct:", bResp)
+	fmt.Println("Value of TimeTaken from the JSON Response:", bResp.TimeTaken)
+}
