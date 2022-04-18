@@ -13,6 +13,7 @@ var (
 )
 
 type BypassResponse struct {
+	// You can rename any of these values to anything you want.
 	Success   bool   `json:"success"`
 	Website   string `json:"website"`
 	Query     string `json:"query"`
