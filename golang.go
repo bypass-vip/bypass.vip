@@ -21,7 +21,7 @@ type BypassResponse struct {
 
 	// Optional
 	Response    string `json:"response"`
-	Cache       string `json:"cache"`
+	Cache       bool   `json:"cache"`
 	Destination string `json:"destination"`
 }
 
