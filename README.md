@@ -28,4 +28,18 @@ Example response that the api will return 😎
 |Website|working/supported?| 
 |-|-:| 
 |linkvertise.com(and other domains)|✔|
-|Any Roblox cheat|NO|
+|paster.so|✔|
+|Admaven (Lootlinks/lootlabs)|✔|
+|work.ink|✔|
+|boost.ink|✔|
+|mboost.me (bst.gg/booo.st)|✔|
+|socialwolvez.com|✔|
+|sub2get.com|✔|
+|social-unlock.com|✔|
+|sub2unlock.com|✔|
+|sub2unlock.net|✔|
+|sub2unlock.io/sub4unlock.io|✔|
+|rekonise.com|✔|
+|adfoc.us|✔|
+|URL shorteners (v.gd, wc.wtf, bit.ly, and more)|✔️|
+|Any Roblox cheat|❌|
