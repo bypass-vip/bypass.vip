@@ -26,8 +26,8 @@ The free API is rate limited, if you need more requests consider getting premium
 ## Supported links
 
 ### Ad-links:
-admaven (lootlinks/lootlabs and all other domains)
-adfoc.us
+admaven (lootlinks/lootlabs and all other domains)  
+adfoc.us  
 boost.ink  
 cuty.io/cety.io  
 linkvertise.com (all domains)  
